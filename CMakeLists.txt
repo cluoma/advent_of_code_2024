@@ -7,3 +7,4 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
 
 add_executable(day1_x day01/day01.cpp)
 
+add_executable(day2_x day02/day02.cpp)
